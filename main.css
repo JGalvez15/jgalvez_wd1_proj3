@@ -1,9 +1,9 @@
 @@charset "UTF-8";
 
 body {
-  background-image: url("images/dangerous_wildlife.png");
+  background-image: url("images/danger_background.jpg");
   background-repeat: no-repeat;
-  background-position: right top;
+  background-size: cover;
 }
 
 #box {
