@@ -3,6 +3,7 @@
 body {
   background-image: url("images/dangerous_wildlife.png");
   background-repeat: no-repeat;
+  background-position: right top;
 }
 
 #box {
