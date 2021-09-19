@@ -1,7 +1,7 @@
 @@charset "UTF-8";
 
 body {
-  background: url("images/dangerous_wildlife.png") no-repeat;
+  background-image: url("images/dangerous_wildlife.png") no-repeat;
   background-size: cover;
 }
 
