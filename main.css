@@ -1,7 +1,7 @@
 @@charset "UTF-8";
 
 body {
-  background-image: url("images/danger_background.jpg");
+  background-image: url("images/warning_background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
