@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
 body {
   background: url("images/warning_background.png");
   background-repeat: no-repeat;
